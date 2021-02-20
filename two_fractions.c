@@ -9,7 +9,7 @@ frac1,frac2;
 
 int output(int f1num,int f1den,int f2num,int f2den,int a,int b)
 {
-printf("the addition of two fracs when  the first frac is %d%d and second frac is %d%d is:%d%d/n",f1num,f1den,f2num,f2den,a,b);
+printf("the addition of two fracs when  the first frac is %d/%d and second frac is %d/%d is:%d/%d\n",f1num,f1den,f2num,f2den,a,b);
 }
 int add(int frac1num,int frac1den,int frac2num,int frac2den) 
 {
