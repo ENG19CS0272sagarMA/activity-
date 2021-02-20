@@ -31,7 +31,7 @@ u1 = input();
 printf("enter the value for V:\n");
 v1 =input();
 
-printf("second point:/n");
+printf("second point:\n");
 printf("enter the value for U:\n");
 u2 =input();
 printf("enter the value for V:\n");
