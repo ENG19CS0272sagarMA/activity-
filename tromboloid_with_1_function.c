@@ -2,10 +2,10 @@
 #include<stdio.h>
   Int main()
 {
-   float h,b,d,vol;
-   printf(“ enter height ,breadth,depth :”);
-   scanf(“%f%f%f”,&h,&b,&d);
-   vol=((h*d)+d)/(3*b);
+    float h,b,d,vol;
+    printf(“ enter height ,breadth,depth :”);
+    scanf(“%f%f%f”,&h,&b,&d);
+    vol=((h*d)+d)/(3*b);
     printf(“ volume of the tromboloid is %f”,vol);
     return  0;
    }
